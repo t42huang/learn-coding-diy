@@ -2,6 +2,6 @@
 This repository will contain resources I use to learn programming.
 
 ## Links I Use
-https://www.google.com/
-https://www.udacity.com/
-https://www.khanacademy.org/
+1. https://www.google.com/
+2. https://www.udacity.com/
+3. https://www.khanacademy.org/
