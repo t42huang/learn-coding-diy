@@ -7,6 +7,19 @@ This repository will contain resources I use to learn programming.
 - https://www.khanacademy.org/
 
 
+## Git
+Quote from [the official Git website](https://git-scm.com/):
+> Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+- The free Pro Git book: https://git-scm.com/book/en/v2
+- Learn Git Branching: https://learngitbranching.js.org/ It's an excellent gamified interactive Git visualization tool to learn git!
+
+- Git Cheatsheet: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+### GitHub
+- Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 ## Python
 
 ### Flask Framework
