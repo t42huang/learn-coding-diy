@@ -5,6 +5,7 @@ This repository will contain resources I use to learn programming.
 - https://www.google.com/
 - https://www.udacity.com/
 - [FreeCodeCamp.org](https://www.freecodecamp.org/): Learn to code. Build projects. Earn certifications.
+- [Courses on Lynda.com](https://www.lynda.com), especially if you have free access through your university or your local library, luckily I do
 - https://www.khanacademy.org/
 
 
@@ -26,6 +27,10 @@ Quote from [the official Git website](https://git-scm.com/):
 ### Flask Framework
 - Source code: https://github.com/pallets/flask
 - A post from FullStackPython on Flask: https://www.fullstackpython.com/flask.html
+- Courses on Lynda.com:
+  1. Flask Essential Training: https://www.lynda.com/Flask-tutorials/Flask-Essential-Training/2822169-2.html
+  2. Full Stack Web Development with Flask: https://www.lynda.com/Flask-tutorials/Full-Stack-Web-Development-Flask/2815153-2.html
+  3. Building RESTful APIs with Flask: https://www.lynda.com/Flask-tutorials/Building-RESTful-APIs-Flask/794143-2.html
 
 ### Django Framework
 
