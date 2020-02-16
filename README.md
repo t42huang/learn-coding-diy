@@ -1,9 +1,10 @@
 # Learn Coding DIY
 This repository will contain resources I use to learn programming.
 
-## Links I Use
+## Great Resources
 - https://www.google.com/
 - https://www.udacity.com/
+- [FreeCodeCamp.org](https://www.freecodecamp.org/): Learn to code. Build projects. Earn certifications.
 - https://www.khanacademy.org/
 
 
