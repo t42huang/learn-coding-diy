@@ -42,5 +42,12 @@ Quote from [the official Git website](https://git-scm.com/):
 ## Regex - Regular Expression
 - RegExr - Learn, Build and Test RegEx: https://regexr.com/
 
-## Generate Dummy Text - Lorem Ipsum Generator
+## Others
+
+### Royalty Free Images
+
+- https://pixabay.com/
+
+### Generate Dummy Text - Lorem Ipsum Generator
+
 - https://www.coolgenerator.com/dummy-text-generator
