@@ -25,7 +25,9 @@ Quote from [the official Git website](https://git-scm.com/):
 ## Python
 
 ### Flask Framework
+
 - Source code: https://github.com/pallets/flask
+- Great book: [Flask Web Development - Miguel Grinberg](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739)
 - A post from FullStackPython on Flask: https://www.fullstackpython.com/flask.html
 - Courses on Lynda.com:
   1. Flask Essential Training: https://www.lynda.com/Flask-tutorials/Flask-Essential-Training/2822169-2.html
