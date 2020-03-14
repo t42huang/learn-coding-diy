@@ -24,6 +24,8 @@ Quote from [the official Git website](https://git-scm.com/):
 
 ## Python
 
+- [Python Crash Course - Eric Matthes](https://ehmatthes.github.io/pcc_2e/)
+
 ### Flask Framework
 
 - Source code: https://github.com/pallets/flask
