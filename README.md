@@ -6,6 +6,7 @@ This repository will contain resources I use to learn programming.
 - https://www.udacity.com/
 - [FreeCodeCamp.org](https://www.freecodecamp.org/): Learn to code. Build projects. Earn certifications.
 - [Courses on Lynda.com](https://www.lynda.com), especially if you have free access through your university or your local library, luckily I do
+- [Learn Web Development - Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
 - https://www.khanacademy.org/
 
 
